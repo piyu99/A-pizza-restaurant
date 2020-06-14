@@ -1,0 +1,28 @@
+body{
+    background-color: black;
+    color: cornsilk;
+}
+.jumbotron{
+    color: black;
+    margin: 15px;
+    padding: 50px 50px 50px 50px; 
+}
+
+footer{
+
+background-color: yellow;
+color: brown;
+
+}
+.row-header{
+
+    padding: 50px 50px 50px 50px;
+background-color: cadetblue;
+    margin: 50px ;
+}
+.row-content{
+    padding: 20px 0px 20px 0px;
+    background-color: rgb(126, 160, 95);
+        margin: 50px ;
+
+}
